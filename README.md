@@ -1,4 +1,4 @@
-# Shenzhen Battery Swapping Station Capacity Survey Dataset
+# Battery Charging-Swapping Station Capacity Survey Dataset
 
 ## 📖 Overview
 This repository contains survey data regarding the battery inventory capacity of **69 operating battery swapping stations** in Shenzhen, China.
