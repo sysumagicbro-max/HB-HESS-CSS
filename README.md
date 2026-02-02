@@ -14,7 +14,7 @@ The dataset was collected on **February 2, 2026**, to investigate the real-world
 The statistical analysis reveals the actual distribution of battery slots in commercial operation. The data supports the rationality of using a **10-battery model** as a representative and conservative baseline for simulation studies in dense urban scenarios.
 
 ## 📂 Data Description
-The dataset is provided in the `data/` directory (e.g., `shenzhen_bss_survey.csv`).
+The dataset is provided in the `data/` directory (e.g., `CSS_in_China_Shenzhen.xlsx`).
 
 | Column Name | Description | Example |
 | :--- | :--- | :--- |
