@@ -3,7 +3,7 @@
 ## 📖 Overview
 This repository contains survey data regarding the battery inventory capacity of **69 operating battery swapping stations** in Shenzhen, China.
 
-The dataset was collected on **February 1, 2026**, to investigate the real-world infrastructure scale and to validate the representativeness of simulation parameters used in our research on **Heterogeneous-Battery Hybrid Energy Storage Systems (HB-HESS)**.
+The dataset was collected on **February 2, 2026**, to investigate the real-world infrastructure scale and to validate the representativeness of simulation parameters used in our research on **Heterogeneous-Battery Hybrid Energy Storage Systems (HB-HESS)**.
 
 ## 📊 Key Statistics
 - **Survey Scope:** 69 Stations across major urban districts in Shenzhen (e.g., Nanshan, Futian, Guangming).
@@ -22,11 +22,6 @@ The dataset is provided in the `data/` directory (e.g., `shenzhen_bss_survey.csv
 | `District` | The administrative district where the station is located. | Guangming |
 | `Station Name` | The specific name of the battery swapping station. | Kelu |
 | `Total Units` | The total number of battery slots available at the station. | 10 |
-
-## 📈 Visualization
-The histogram below illustrates the distribution of station capacities, highlighting the typical infrastructure scale.
-
-![Capacity Distribution](figures/capacity_distribution.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
