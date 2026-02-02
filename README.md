@@ -27,11 +27,6 @@ The dataset is provided in the `data/` directory (e.g., `shenzhen_bss_survey.csv
 The histogram below illustrates the distribution of station capacities, highlighting the typical infrastructure scale.
 
 ![Capacity Distribution](figures/capacity_distribution.png)
-*(Note: Please ensure you upload your histogram image to a 'figures' folder)*
-
-## 🔗 Citation
-If you use this dataset in your research, please cite our paper:
-> **Kai Zhang, Benfei Wang, et al.**, "**Hierarchical Economic Operation of Heterogeneous-Battery Hybrid Energy Storage System Based Charging-Swapping Stations with Active Health Management**," *IEEE Transactions on Smart Grid* (Under Review), 2026.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
